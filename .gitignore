@@ -1,0 +1,5 @@
+/venv/*
+__pycache__/*
+.pytest_cache
+sql_app.db
+reference_data_app/__pycache__/*
